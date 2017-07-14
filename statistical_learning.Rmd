@@ -2,7 +2,7 @@
 title: "Statistical Learning"
 subtitle: Notes (and extras) from Pierpaolo Brutti's course. 
 date: February 2017 - June 2017.
-author: Sapienza - Università di Roma
+author: Sapienza - Universit? di Roma
 documentclass: report
 header-includes:
     - \usepackage[T1]{fontenc}
